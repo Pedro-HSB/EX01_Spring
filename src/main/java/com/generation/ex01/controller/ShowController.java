@@ -56,7 +56,7 @@ public class ShowController {
 				+ "<br>1	-	Melhor comunicacao com meus colegas de grupo\r\n"
 				+ "<br>2	-	tentar participar mais do discord\r\n"
 				+ "<br>3	-	organizar objetivos para dezembro\r\n"
-				+ "<br>4	-	finalizar tarefas atrasadas\r\n"
+				+ "<br>4	-	finalizar tarefas atrasadas \r\n"
 				+ "<h3>"
 				+ "</div>"
 				+ "<div class='col'>"
